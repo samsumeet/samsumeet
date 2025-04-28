@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @samsumeet
 - 👀 I’m interested in Coding and Learning
-- 🌱 I’m currently learning about Kubernetes 
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me at sumeetfullstackdeveloper@gmail.com
 
